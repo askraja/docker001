@@ -563,6 +563,7 @@ Login using the credentials you created earlier:
 
 <img src=images/036-wp-login2.png />
 
+---
 
 Select "Write your first blog post" in the Next Steps section:
 
