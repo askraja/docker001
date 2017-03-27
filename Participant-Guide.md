@@ -568,10 +568,12 @@ Login using the credentials you created earlier:
 Select "Write your first blog post" in the Next Steps section:
 
 <img src=images/037-write-blog.png />
+
 ---
 
 
 Create a sample blog post.  Include an image of your choosing, if you would like and click Publish:
+
 ---
 
 <img src=images/038-publish-blog.png />
